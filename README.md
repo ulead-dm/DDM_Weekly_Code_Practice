@@ -23,10 +23,10 @@ Cada semana tiene su propia carpeta con los ejercicios y soluciones:
 └── 
 
 📁 Semana_06/
-└── tarea_2_diegoDM.zip
+└── tarea_2.zip
 
 📁 Semana_07/
-└── practica_2.zip
+└── 
 
 🚀 Objetivos
 
