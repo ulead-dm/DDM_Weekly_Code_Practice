@@ -14,13 +14,13 @@ Cada semana tiene su propia carpeta con los ejercicios y soluciones:
 └── practica_2.zip
 
 📁 Semana_03/
-└── para_modularizar.zip
+└── para_modularizar.txt
 
 📁 Semana_04/
-└── practica_2.zip
+└── Tarea_programada_DiegoDm.zip
 
 📁 Semana_05/
-└── practica_2.zip
+└── practica_2.txt
 
 📁 Semana_06/
 └── practica_2.zip
