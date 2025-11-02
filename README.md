@@ -20,10 +20,10 @@ Cada semana tiene su propia carpeta con los ejercicios y soluciones:
 └── Tarea_programada_DiegoDm.zip
 
 📁 Semana_05/
-└── practica_2.txt
+└── 
 
 📁 Semana_06/
-└── practica_2.zip
+└── tarea_2_diegoDM.zip
 
 📁 Semana_07/
 └── practica_2.zip
