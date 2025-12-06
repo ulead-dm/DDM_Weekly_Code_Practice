@@ -19,14 +19,30 @@ Cada semana tiene su propia carpeta con los ejercicios y soluciones:
 📁 Semana_04/
 └── Tarea_programada_DiegoDm.zip
 
-📁 Semana_05/
-└── 
-
 📁 Semana_06/
 └── tarea_2.zip
 
-📁 Semana_07/
-└── 
+📁 Semana_10/
+└── Cliente.py
+    Cuenta.py
+    Movimiento.py
+    Tarjeta.py
+
+📁 Semana_11/
+└── Animal
+    Gato
+    Perro
+    pruebas
+    pruebas2
+
+📁 Semana_12/
+└── Animal
+    Automovil
+    modulo_pruebas
+    patron_python
+    Perro
+    Vehiculo
+
 
 🚀 Objetivos
 
